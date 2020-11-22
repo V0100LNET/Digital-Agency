@@ -8,7 +8,7 @@ It is a project about of marketing, personal brand, and anothers services how si
 - CSS
 - Bootstrap
 - Sass
--JavaScript
+- JavaScript
 
 ## Autors
 - Oswaldo Hernández
